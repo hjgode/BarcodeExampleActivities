@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\C-Source\\android\\BarcodeExampleActivities\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_with_fragment.xml",
+        "source": "D:\\C-Source\\android\\BarcodeExampleActivities\\app\\src\\main\\res\\layout\\activity_with_fragment.xml"
+    },
+    {
+        "merged": "D:\\C-Source\\android\\BarcodeExampleActivities\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\C-Source\\android\\BarcodeExampleActivities\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\C-Source\\android\\BarcodeExampleActivities\\app\\build\\intermediates\\res\\merged\\debug\\layout\\scanner_select_dialog.xml",
+        "source": "D:\\C-Source\\android\\BarcodeExampleActivities\\app\\src\\main\\res\\layout\\scanner_select_dialog.xml"
+    },
+    {
+        "merged": "D:\\C-Source\\android\\BarcodeExampleActivities\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_activity_with_fragment.xml",
+        "source": "D:\\C-Source\\android\\BarcodeExampleActivities\\app\\src\\main\\res\\layout\\fragment_activity_with_fragment.xml"
+    },
+    {
+        "merged": "D:\\C-Source\\android\\BarcodeExampleActivities\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_selection_barcode.xml",
+        "source": "D:\\C-Source\\android\\BarcodeExampleActivities\\app\\src\\main\\res\\layout\\activity_selection_barcode.xml"
+    },
+    {
+        "merged": "D:\\C-Source\\android\\BarcodeExampleActivities\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_barcode.xml",
+        "source": "D:\\C-Source\\android\\BarcodeExampleActivities\\app\\src\\main\\res\\layout\\activity_barcode.xml"
+    }
+]

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.honeywell.barcodeexample"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="17" />
+
+    <uses-permission android:name="com.honeywell.decode.permission.DECODE" />
+
+    <android:uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <android:uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <android:uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/barcode_example_icon"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.honeywell.barcodeexample.MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.honeywell.barcodeexample.AutomaticBarcodeActivity"
+            android:label="@string/barcode"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.AUTOMATICBARCODEACTIVITY" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.honeywell.barcodeexample.ClientBarcodeActivity"
+            android:label="@string/barcode"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.CLIENTBARCODEACTIVITY" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.honeywell.barcodeexample.ClientBarcodeActivity2"
+            android:label="@string/barcode"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.CLIENTBARCODEACTIVITY2" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.honeywell.barcodeexample.ClientBarcodeActivity21"
+            android:label="@string/barcode"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.CLIENTBARCODEACTIVITY21" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.honeywell.barcodeexample.ScannerSelectionBarcodeActivity"
+            android:label="@string/barcode"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.SCANNERSELECTBARCODEACTIVITY" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.honeywell.barcodeexample.ActivityWithFragment"
+            android:label="@string/title_activity_with_fragment"
+            android:parentActivityName="com.honeywell.barcodeexample.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.FRAGMENTACTIVITY" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.honeywell.barcodeexample.MainActivity" />
+        </activity>
+    </application>
+
+</manifest>

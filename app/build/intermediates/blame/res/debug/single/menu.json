@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\C-Source\\android\\BarcodeExampleActivities\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_activity_with.xml",
+        "source": "D:\\C-Source\\android\\BarcodeExampleActivities\\app\\src\\main\\res\\menu\\menu_activity_with.xml"
+    },
+    {
+        "merged": "D:\\C-Source\\android\\BarcodeExampleActivities\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main.xml",
+        "source": "D:\\C-Source\\android\\BarcodeExampleActivities\\app\\src\\main\\res\\menu\\activity_main.xml"
+    }
+]
