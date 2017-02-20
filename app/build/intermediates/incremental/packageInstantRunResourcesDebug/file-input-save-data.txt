@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Dec 19 15:43:58 CET 2016
+#Fri Feb 10 10:16:19 CET 2017
 8.set=ANDROID_RESOURCE
 1.base=D\:\\C-Source\\android\\BarcodeExampleActivities\\app\\build\\intermediates\\res\\resources-debug.ap_
 1.file=D\:\\C-Source\\android\\BarcodeExampleActivities\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
@@ -9,11 +9,11 @@
 5.base=D\:\\C-Source\\android\\BarcodeExampleActivities\\app\\build\\intermediates\\res\\resources-debug.ap_
 5.file=D\:\\C-Source\\android\\BarcodeExampleActivities\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\fragment_activity_with_fragment.xml
 7.base=D\:\\C-Source\\android\\BarcodeExampleActivities\\app\\build\\intermediates\\res\\resources-debug.ap_
-7.file=D\:\\C-Source\\android\\BarcodeExampleActivities\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v17\\fragment_activity_with_fragment.xml
-11.file=D\:\\C-Source\\android\\BarcodeExampleActivities\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\menu_activity_with.xml
+7.file=D\:\\C-Source\\android\\BarcodeExampleActivities\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\barcode_example_icon.png
+11.file=D\:\\C-Source\\android\\BarcodeExampleActivities\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\scanner_select_dialog.xml
 11.base=D\:\\C-Source\\android\\BarcodeExampleActivities\\app\\build\\intermediates\\res\\resources-debug.ap_
 9.base=D\:\\C-Source\\android\\BarcodeExampleActivities\\app\\build\\intermediates\\res\\resources-debug.ap_
-9.file=D\:\\C-Source\\android\\BarcodeExampleActivities\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\barcode_example_icon.png
+9.file=D\:\\C-Source\\android\\BarcodeExampleActivities\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_barcode.xml
 11.set=ANDROID_RESOURCE
 0.set=ANDROID_RESOURCE
 7.set=ANDROID_RESOURCE
@@ -22,16 +22,16 @@
 0.base=D\:\\C-Source\\android\\BarcodeExampleActivities\\app\\build\\intermediates\\res\\resources-debug.ap_
 0.file=D\:\\C-Source\\android\\BarcodeExampleActivities\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
 6.set=ANDROID_RESOURCE
-2.file=D\:\\C-Source\\android\\BarcodeExampleActivities\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+2.file=D\:\\C-Source\\android\\BarcodeExampleActivities\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_with_fragment.xml
 2.base=D\:\\C-Source\\android\\BarcodeExampleActivities\\app\\build\\intermediates\\res\\resources-debug.ap_
-4.file=D\:\\C-Source\\android\\BarcodeExampleActivities\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_with_fragment.xml
+4.file=D\:\\C-Source\\android\\BarcodeExampleActivities\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
 4.base=D\:\\C-Source\\android\\BarcodeExampleActivities\\app\\build\\intermediates\\res\\resources-debug.ap_
 6.base=D\:\\C-Source\\android\\BarcodeExampleActivities\\app\\build\\intermediates\\res\\resources-debug.ap_
 6.file=D\:\\C-Source\\android\\BarcodeExampleActivities\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\activity_main.xml
 10.base=D\:\\C-Source\\android\\BarcodeExampleActivities\\app\\build\\intermediates\\res\\resources-debug.ap_
-10.file=D\:\\C-Source\\android\\BarcodeExampleActivities\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\scanner_select_dialog.xml
+10.file=D\:\\C-Source\\android\\BarcodeExampleActivities\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\menu_activity_with.xml
 8.base=D\:\\C-Source\\android\\BarcodeExampleActivities\\app\\build\\intermediates\\res\\resources-debug.ap_
-8.file=D\:\\C-Source\\android\\BarcodeExampleActivities\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_barcode.xml
+8.file=D\:\\C-Source\\android\\BarcodeExampleActivities\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v17\\fragment_activity_with_fragment.xml
 2.set=ANDROID_RESOURCE
 9.set=ANDROID_RESOURCE
 count=12

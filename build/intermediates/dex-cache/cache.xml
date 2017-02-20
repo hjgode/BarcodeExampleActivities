@@ -2,31 +2,31 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
+        is-multidex="true"
         jar="D:\C-Source\android\BarcodeExampleActivities\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="3b13902d8e37671b47f0e0ff068b9254521df82c">
-        <dex dex="D:\C-Source\android\BarcodeExampleActivities\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_afa3e20933ac988040a1ac99cbf90c0bfed2f1b8.jar" />
+        sha1="d8afca8836ca9f67d3781697c499e4c3fe850e41">
+        <dex dex="D:\C-Source\android\BarcodeExampleActivities\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_afa3e20933ac988040a1ac99cbf90c0bfed2f1b8\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="D:\C-Source\android\BarcodeExampleActivities\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="537de45ffdfbe298743da90d7bbaccc41a8d44a3">
-        <dex dex="D:\C-Source\android\BarcodeExampleActivities\app\build\intermediates\pre-dexed\debug\instant-run_46b6b91d629e11aa03642ae139360491509a18ec.jar" />
-    </item>
-    <item
-        is-multidex="false"
+        is-multidex="true"
         jar="D:\C-Source\android\BarcodeExampleActivities\app\libs\DataCollection.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="552bc3ffa1d0ac31084ab3b78080b2e62df4f316">
-        <dex dex="D:\C-Source\android\BarcodeExampleActivities\app\build\intermediates\pre-dexed\debug\DataCollection_81739925c0d093954e8d0067fb8fadd7bc57b54e.jar" />
+        <dex dex="D:\C-Source\android\BarcodeExampleActivities\app\build\intermediates\transforms\dex\debug\folders\1000\2\DataCollection_81739925c0d093954e8d0067fb8fadd7bc57b54e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\C-Source\android\BarcodeExampleActivities\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="dcf60609f8cfa3096d9c423535b5bedad1f97a9f">
+        <dex dex="D:\C-Source\android\BarcodeExampleActivities\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_46b6b91d629e11aa03642ae139360491509a18ec\classes.dex" />
     </item>
 
 </items>

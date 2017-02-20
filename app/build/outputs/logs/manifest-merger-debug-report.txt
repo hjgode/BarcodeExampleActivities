@@ -29,18 +29,18 @@ uses-permission#com.honeywell.decode.permission.DECODE
 ADDED from D:\C-Source\android\BarcodeExampleActivities\app\src\main\AndroidManifest.xml:11:5-78
 	android:name
 		ADDED from D:\C-Source\android\BarcodeExampleActivities\app\src\main\AndroidManifest.xml:11:22-75
-android:uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from D:\C-Source\android\BarcodeExampleActivities\app\src\main\AndroidManifest.xml:13:5-89
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\C-Source\android\BarcodeExampleActivities\app\src\main\AndroidManifest.xml:13:5-81
 	android:name
-		ADDED from D:\C-Source\android\BarcodeExampleActivities\app\src\main\AndroidManifest.xml:13:30-86
-android:uses-permission#android.permission.READ_PHONE_STATE
-ADDED from D:\C-Source\android\BarcodeExampleActivities\app\src\main\AndroidManifest.xml:14:5-83
+		ADDED from D:\C-Source\android\BarcodeExampleActivities\app\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\C-Source\android\BarcodeExampleActivities\app\src\main\AndroidManifest.xml:14:5-75
 	android:name
-		ADDED from D:\C-Source\android\BarcodeExampleActivities\app\src\main\AndroidManifest.xml:14:30-80
-android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from D:\C-Source\android\BarcodeExampleActivities\app\src\main\AndroidManifest.xml:15:5-88
+		ADDED from D:\C-Source\android\BarcodeExampleActivities\app\src\main\AndroidManifest.xml:14:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\C-Source\android\BarcodeExampleActivities\app\src\main\AndroidManifest.xml:15:5-80
 	android:name
-		ADDED from D:\C-Source\android\BarcodeExampleActivities\app\src\main\AndroidManifest.xml:15:30-85
+		ADDED from D:\C-Source\android\BarcodeExampleActivities\app\src\main\AndroidManifest.xml:15:22-77
 application
 ADDED from D:\C-Source\android\BarcodeExampleActivities\app\src\main\AndroidManifest.xml:17:5-94:19
 	android:label

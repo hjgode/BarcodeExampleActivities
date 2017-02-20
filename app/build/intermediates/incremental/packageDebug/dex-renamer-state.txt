@@ -1,4 +1,7 @@
-#Mon Dec 19 16:27:05 CET 2016
-base.0=D\:\\C-Source\\android\\BarcodeExampleActivities\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+#Fri Feb 10 10:16:26 CET 2017
+base.0=D\:\\C-Source\\android\\BarcodeExampleActivities\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_46b6b91d629e11aa03642ae139360491509a18ec
+renamed.1=classes2.dex
 renamed.0=classes.dex
-file.0=D\:\\C-Source\\android\\BarcodeExampleActivities\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+file.1=D\:\\C-Source\\android\\BarcodeExampleActivities\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_afa3e20933ac988040a1ac99cbf90c0bfed2f1b8\\classes.dex
+base.1=D\:\\C-Source\\android\\BarcodeExampleActivities\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_afa3e20933ac988040a1ac99cbf90c0bfed2f1b8
+file.0=D\:\\C-Source\\android\\BarcodeExampleActivities\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_46b6b91d629e11aa03642ae139360491509a18ec\\classes.dex

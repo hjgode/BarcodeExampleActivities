@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
     abi="armeabi-v7a,armeabi"
-    api-level="19"
-    density="xhdpi"
+    api-level="23"
+    density="hdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="284800362727446"
+    timestamp="326543216633397"
     token="-8342371630651156507"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="97" />
+        duration="5628" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="8" />
+        duration="330" />
     <task
         name="verifier"
-        duration="2" />
+        duration="88" />
 
     <artifact
         location="D:\C-Source\android\BarcodeExampleActivities\app\build\outputs\apk\app-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="284800362727446"
+        timestamp="326543216633397"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="D:\C-Source\android\BarcodeExampleActivities\app\build\outputs\apk\app-debug.apk"

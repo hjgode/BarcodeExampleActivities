@@ -68,7 +68,14 @@
                     "endOffset": 270
                 },
                 "from": {
-                    "file": "D:\\C-Source\\android\\BarcodeExampleActivities\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "D:\\C-Source\\android\\BarcodeExampleActivities\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 52,
+                        "endOffset": 104
+                    }
                 }
             },
             {
@@ -80,7 +87,14 @@
                     "endOffset": 314
                 },
                 "from": {
-                    "file": "D:\\C-Source\\android\\BarcodeExampleActivities\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "D:\\C-Source\\android\\BarcodeExampleActivities\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 160,
+                        "endColumn": 43,
+                        "endOffset": 199
+                    }
                 }
             },
             {
@@ -92,7 +106,14 @@
                     "endOffset": 380
                 },
                 "from": {
-                    "file": "D:\\C-Source\\android\\BarcodeExampleActivities\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "D:\\C-Source\\android\\BarcodeExampleActivities\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 204,
+                        "endColumn": 65,
+                        "endOffset": 265
+                    }
                 }
             },
             {
@@ -104,7 +125,14 @@
                     "endOffset": 440
                 },
                 "from": {
-                    "file": "D:\\C-Source\\android\\BarcodeExampleActivities\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "D:\\C-Source\\android\\BarcodeExampleActivities\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 270,
+                        "endColumn": 59,
+                        "endOffset": 325
+                    }
                 }
             },
             {
@@ -116,7 +144,14 @@
                     "endOffset": 518
                 },
                 "from": {
-                    "file": "D:\\C-Source\\android\\BarcodeExampleActivities\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "D:\\C-Source\\android\\BarcodeExampleActivities\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 330,
+                        "endColumn": 77,
+                        "endOffset": 403
+                    }
                 }
             },
             {
@@ -128,7 +163,14 @@
                     "endOffset": 580
                 },
                 "from": {
-                    "file": "D:\\C-Source\\android\\BarcodeExampleActivities\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "D:\\C-Source\\android\\BarcodeExampleActivities\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 408,
+                        "endColumn": 61,
+                        "endOffset": 465
+                    }
                 }
             },
             {
@@ -140,7 +182,14 @@
                     "endOffset": 615
                 },
                 "from": {
-                    "file": "D:\\C-Source\\android\\BarcodeExampleActivities\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "D:\\C-Source\\android\\BarcodeExampleActivities\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 733,
+                        "endColumn": 42,
+                        "endOffset": 771
+                    }
                 }
             },
             {
@@ -152,7 +201,14 @@
                     "endOffset": 649
                 },
                 "from": {
-                    "file": "D:\\C-Source\\android\\BarcodeExampleActivities\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "D:\\C-Source\\android\\BarcodeExampleActivities\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 691,
+                        "endColumn": 41,
+                        "endOffset": 728
+                    }
                 }
             },
             {
@@ -164,7 +220,14 @@
                     "endOffset": 700
                 },
                 "from": {
-                    "file": "D:\\C-Source\\android\\BarcodeExampleActivities\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "D:\\C-Source\\android\\BarcodeExampleActivities\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 109,
+                        "endColumn": 50,
+                        "endOffset": 155
+                    }
                 }
             },
             {
@@ -195,7 +258,14 @@
                     "endOffset": 873
                 },
                 "from": {
-                    "file": "D:\\C-Source\\android\\BarcodeExampleActivities\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "D:\\C-Source\\android\\BarcodeExampleActivities\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 470,
+                        "endColumn": 94,
+                        "endOffset": 560
+                    }
                 }
             },
             {
@@ -207,7 +277,14 @@
                     "endOffset": 950
                 },
                 "from": {
-                    "file": "D:\\C-Source\\android\\BarcodeExampleActivities\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "D:\\C-Source\\android\\BarcodeExampleActivities\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 565,
+                        "endColumn": 76,
+                        "endOffset": 637
+                    }
                 }
             },
             {
@@ -219,7 +296,14 @@
                     "endOffset": 1001
                 },
                 "from": {
-                    "file": "D:\\C-Source\\android\\BarcodeExampleActivities\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "D:\\C-Source\\android\\BarcodeExampleActivities\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 776,
+                        "endColumn": 50,
+                        "endOffset": 822
+                    }
                 }
             },
             {
@@ -231,7 +315,14 @@
                     "endOffset": 1050
                 },
                 "from": {
-                    "file": "D:\\C-Source\\android\\BarcodeExampleActivities\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "D:\\C-Source\\android\\BarcodeExampleActivities\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 642,
+                        "endColumn": 48,
+                        "endOffset": 686
+                    }
                 }
             },
             {
@@ -239,25 +330,41 @@
                     "startLine": 19,
                     "startColumn": 4,
                     "startOffset": 1055,
-                    "endLine": 21,
+                    "endLine": 25,
                     "endColumn": 12,
-                    "endOffset": 1133
+                    "endOffset": 1341
                 },
                 "from": {
-                    "file": "D:\\C-Source\\android\\BarcodeExampleActivities\\app\\src\\main\\res\\values\\styles.xml"
+                    "file": "D:\\C-Source\\android\\BarcodeExampleActivities\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
                 }
             },
             {
                 "to": {
-                    "startLine": 22,
+                    "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 1138,
-                    "endLine": 24,
+                    "startOffset": 1346,
+                    "endLine": 28,
                     "endColumn": 12,
-                    "endOffset": 1205
+                    "endOffset": 1501
                 },
                 "from": {
-                    "file": "D:\\C-Source\\android\\BarcodeExampleActivities\\app\\src\\main\\res\\values\\styles.xml"
+                    "file": "D:\\C-Source\\android\\BarcodeExampleActivities\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
                 }
             }
         ]
